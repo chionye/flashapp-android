@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="create_acco">Create Account</string>
+    <string name="enter_your_">Enter your details to create your account</string>
+    <string name="full_name">Full Name</string>
+    <string name="email_addre">Email Address</string>
+    <string name="phone_numbe">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="i_already_h">I already have an account? Login</string>
+    <string name="verify_your">Verify your Email</string>
+    <string name="please_click">Please click on the link sent to your email  to verify your account.</string>
+    <string name="email_verif">Email Verified!</string>
+    <string name="you_have_su">You have sucessfully verified your account.</string>
+    <string name="welcome_bac">Welcome Back</string>
+    <string name="forgot_pass">Forgot password?</string>
+    <string name="don_t_have_">Don’t have an account? Register</string>
+    <string name="navigation_drawer_open">open</string>
+    <string name="navigation_drawer_close">close</string>
+    <string name="forgotpassword">Forgot Password?</string>
+    <string name="enter_your_e">Enter your email to reset your password</string>
+    <string name="pick_up">Pick-Up</string>
+    <string name="drop_off">Drop-Off</string>
+    <string name="enter_addre">Hello</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nav_open">open</string>
+    <string name="nav_close">close</string>
+    <string name="api_key">AIzaSyDHK4cF9keecYs3O1_t0f7LUqw2BgdafUE</string>
+    <string name="conatct_us">Conatct Us</string>
+    <string name="office_addr">Office Address</string>
+    <string name="elgin_st_ce">6391 Elgin St. Celina, Delaware 10299 Port-Hacourt Nigeria</string>
+    <string name="reach_us">Reach Us</string>
+    <string name="some_id">070600000010</string>
+    <string name="you_re_yet_">You’ve yet to send a package</string>
+</resources>

@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Verify">
+
+    <RelativeLayout
+        android:id="@+id/relative"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="@drawable/get_started"
+        android:clipToOutline="true"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/verify_your"
+            android:layout_width="fill_parent"
+            android:layout_height="34dp"
+            android:textAlignment="center"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="85dp"
+            android:layout_marginRight="85dp"
+            android:layout_marginTop="84dp"
+            android:gravity="center_horizontal|top"
+            android:textStyle="bold"
+            android:lineSpacingExtra="1sp"
+            android:text="@string/verify_your"
+            android:textAppearance="@style/verify_your"
+            android:translationY="-0.66sp" />
+
+        <TextView
+            android:id="@+id/please_clic"
+            android:layout_width="fill_parent"
+            android:layout_height="44dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="53dp"
+            android:layout_marginTop="126dp"
+            android:layout_marginRight="53dp"
+            android:gravity="center_horizontal|top"
+            android:lineSpacingExtra="0sp"
+            android:text="Please click on the link sent to your email  to verify your account."
+            android:textAlignment="center"
+            android:textAppearance="@style/please_clic"
+            android:translationY="-0.11sp" />
+
+        <ImageView
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            android:id="@+id/frame"
+            android:layout_width="fill_parent"
+            android:layout_height="205dp"
+            android:layout_alignParentLeft="true"
+            android:layout_marginLeft="70dp"
+            android:layout_marginRight="70dp"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="258dp"
+            android:clipToOutline="true"
+            android:background="@drawable/frame"
+            android:src="@drawable/frame_1"
+            />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/button"
+            android:layout_width="fill_parent"
+            android:layout_height="40dp"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="20dp"
+            android:layout_marginTop="527dp"
+            android:layout_marginRight="20dp"
+            android:background="@drawable/button"
+            android:text="CONTINUE"
+            android:textColor="@color/black" />
+    </RelativeLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="create_acco">
+
+        <item name="android:textSize">
+            24sp
+        </item>
+
+        <item name="android:textColor">
+            #0E0D0B
+        </item>
+
+    </style>
+    <style name="enter_your_">
+
+        <item name="android:textSize">
+            16sp
+        </item>
+
+        <item name="android:letterSpacing">
+            0.01
+        </item>
+
+        <item name="android:textColor">
+            #0E0D0B
+        </item>
+
+    </style>
+    <style name="full_name">
+
+        <item name="android:textSize">
+            16sp
+        </item>
+
+        <item name="android:letterSpacing">
+            0.01
+        </item>
+
+        <item name="android:textColor">
+            #0E0D0B
+        </item>
+
+    </style>
+
+    <style name="email_addre">
+
+        <item name="android:textSize">
+            16sp
+        </item>
+
+        <item name="android:letterSpacing">
+            0.01
+        </item>
+
+        <item name="android:textColor">
+            #0E0D0B
+        </item>
+
+    </style>
+
+    <style name="phone_numbe">
+
+        <item name="android:textSize">
+            16sp
+        </item>
+
+        <item name="android:letterSpacing">
+            0.01
+        </item>
+
+        <item name="android:textColor">
+            #0E0D0B
+        </item>
+
+    </style>
+
+    <style name="password">
+
+        <item name="android:textSize">
+            16sp
+        </item>
+
+        <item name="android:letterSpacing">
+            0.01
+        </item>
+
+        <item name="android:textColor">
+            #0E0D0B
+        </item>
+
+    </style>
+
+    <style name="i_already_h">
+
+        <item name="android:textSize">
+            16sp
+        </item>
+
+        <item name="android:letterSpacing">
+            0.01
+        </item>
+
+        <item name="android:textColor">
+            #0E0D0B
+        </item>
+
+    </style>
+
+    <style name="verify_your">
+
+        <item name="android:textSize">
+            24sp
+        </item>
+
+        <item name="android:textColor">
+            #0E0D0B
+        </item>
+
+    </style>
+
+    <style name="please_clic">
+
+        <item name="android:textSize">
+            16sp
+        </item>
+
+        <item name="android:letterSpacing">
+            0.01
+        </item>
+
+        <item name="android:textColor">
+            #545045
+        </item>
+
+    </style>
+
+    <style name="email_verif">
+
+        <item name="android:textSize">
+            24sp
+        </item>
+
+        <item name="android:textColor">
+            #0E0D0B
+        </item>
+
+    </style>
+
+    <style name="you_have_su">
+
+        <item name="android:textSize">
+            16sp
+        </item>
+
+        <item name="android:letterSpacing">
+            0.01
+        </item>
+
+        <item name="android:textColor">
+            #545045
+        </item>
+
+    </style>
+
+    <style name="forgot_pass">
+
+        <item name="android:textSize">
+            14sp
+        </item>
+
+        <item name="android:letterSpacing">
+            0
+        </item>
+
+        <item name="android:textColor">
+            #0E0D0B
+        </item>
+
+    </style>
+
+    <style name="don_t_have_">
+
+        <item name="android:textSize">
+            16sp
+        </item>
+
+        <item name="android:letterSpacing">
+            0.01
+        </item>
+
+        <item name="android:textColor">
+            #0E0D0B
+        </item>
+
+    </style>
+
+    <style name="nzube_antho">
+
+        <item name="android:textSize">
+            16sp
+        </item>
+
+        <item name="android:letterSpacing">
+            0.01
+        </item>
+
+        <item name="android:textColor">
+            #0E0D0B
+        </item>
+
+    </style>
+
+    <style name="pick_up">
+
+        <item name="android:textSize">
+            12sp
+        </item>
+
+        <item name="android:letterSpacing">
+            0
+        </item>
+
+        <item name="android:textColor">
+            #545045
+        </item>
+
+    </style>
+
+    <style name="drop_off">
+
+        <item name="android:textSize">
+            12sp
+        </item>
+
+        <item name="android:letterSpacing">
+            0
+        </item>
+
+        <item name="android:textColor">
+            #545045
+        </item>
+
+    </style>
+
+    <style name="enter_addre">
+
+        <item name="android:textSize">
+            20sp
+        </item>
+
+        <item name="android:letterSpacing">
+            0.01
+        </item>
+
+        <item name="android:textColor">
+            #0E0D0B
+        </item>
+
+    </style>
+
+    <style name="conatct_us">
+
+        <item name="android:textSize">
+            20sp
+        </item>
+
+        <item name="android:letterSpacing">
+            0.01
+        </item>
+
+        <item name="android:textColor">
+            #0E0D0B
+        </item>
+
+    </style>
+
+    <style name="office_addr">
+
+        <item name="android:textSize">
+            20sp
+        </item>
+
+        <item name="android:letterSpacing">
+            0.01
+        </item>
+
+        <item name="android:textColor">
+            #0E0D0B
+        </item>
+
+    </style>
+
+    <style name="elgin_st_ce">
+
+        <item name="android:textSize">
+            16sp
+        </item>
+
+        <item name="android:letterSpacing">
+            0.01
+        </item>
+
+        <item name="android:textColor">
+            #0E0D0B
+        </item>
+
+    </style>
+
+    <style name="reach_us">
+
+        <item name="android:textSize">
+            19sp
+        </item>
+
+        <item name="android:letterSpacing">
+            0.01
+        </item>
+
+        <item name="android:textColor">
+            #0E0D0B
+        </item>
+
+    </style>
+
+    <style name="some_id">
+
+        <item name="android:textSize">
+            16sp
+        </item>
+
+        <item name="android:letterSpacing">
+            0.01
+        </item>
+
+        <item name="android:textColor">
+            #0E0D0B
+        </item>
+
+    </style>
+
+    <style name="you_re_yet_">
+
+        <item name="android:textSize">
+            20sp
+        </item>
+
+        <item name="android:letterSpacing">
+            0.01
+        </item>
+
+        <item name="android:textColor">
+            #0E0D0B
+        </item>
+
+    </style>
+
+    <style name="FloatingActionButtonStyle" parent="Widget.Design.FloatingActionButton">
+        <item name="shapeAppearanceOverlay">@style/fabStyle</item>
+    </style>
+    
+    <style name="fabStyle" parent="ShapeAppearance.MaterialComponents.SmallComponent">
+        <item name="cornerSize">20%</item>
+    </style>
+
+</resources>

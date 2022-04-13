@@ -1,0 +1,25 @@
+<?xml version= "1.0" encoding= "utf-8"?>
+<menu xmlns:android = "http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior= "single">
+        <item
+            android:id= "@+id/nav_profile"
+            android:icon= "@drawable/user_icon"
+            android:title= "Edit Profile" />
+        <item
+            android:id= "@+id/nav_payment"
+            android:icon= "@drawable/credit_card"
+            android:title= "Payment" />
+        <item
+            android:id= "@+id/nav_history"
+            android:icon= "@drawable/clock"
+            android:title= "History" />
+        <item
+            android:id= "@+id/nav_contact"
+            android:icon= "@drawable/chat_circle"
+            android:title= "Contact Us" />
+        <item
+            android:id= "@+id/nav_logout"
+            android:icon= "@drawable/sign_out"
+            android:title= "Log Out" />
+    </group>
+</menu>
